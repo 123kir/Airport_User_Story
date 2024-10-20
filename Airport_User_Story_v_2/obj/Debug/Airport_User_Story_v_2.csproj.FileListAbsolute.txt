@@ -1,0 +1,6 @@
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\Airport_User_Story_v_2.csproj.AssemblyReference.cache
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\DataGrid.ApplicantsForm.resources
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\DataGridStarostin.Form1.resources
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\Airport_User_Story_v_2.Properties.Resources.resources
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\Airport_User_Story_v_2.csproj.GenerateResource.cache
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\Airport_User_Story_v_2\Airport_User_Story_v_2\obj\Debug\Airport_User_Story_v_2.csproj.CoreCompileInputs.cache
